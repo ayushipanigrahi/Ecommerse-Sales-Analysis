@@ -1,5 +1,7 @@
 # Ecommerse-Sales-Analysis
-The primary objective of this project is to analyze online sales data by creating an interactive dashboard using Power BI.  
+The primary objective of this project is to analyze online sales data by creating an interactive dashboard using Power BI.
+
+Tools used: Microsoft Excel, Microsoft Power BI
 
 Steps include:
 
