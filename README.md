@@ -9,7 +9,7 @@ Steps include:
 4. Used different types of customized visualization. (Bar chart, pie chart, donut chart, map, clustered bar chart, scatter chart, line chart, area chart etc.)
 
 Insights from Analysis:
-1. Sales and profit were highest in december 2021.
+1. Sales and profit were highest in November 2021 (~10.3K).
 2. Most preferred payment mode was COD, followed by UPI and Credit cards.
 3. Customer who spent the highest amount is Harivansh(~9.9k). 
 4. Top 3 sales by category were- clothing, electronics then furniture.
